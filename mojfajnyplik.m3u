@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP" tvg-logo="" group-title="Najlepsza telewizja",TVP
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882112&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 2" tvg-logo="" group-title="Najlepsza telewizja",TVP 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882110&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT" tvg-logo="" group-title="Najlepsza telewizja",POLSAT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882080&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT 2" tvg-logo="" group-title="Najlepsza telewizja",POLSAT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880368&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="" group-title="Najlepsza telewizja",TVN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880378&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN 7" tvg-logo="" group-title="Najlepsza telewizja",TVN 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880377&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TTV" tvg-logo="" group-title="Najlepsza telewizja",TTV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882104&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV4" tvg-logo="" group-title="Najlepsza telewizja",TV4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882081&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV6" tvg-logo="" group-title="Najlepsza telewizja",TV6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882082&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN 24" tvg-logo="" group-title="Najlepsza telewizja",TVN 24
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=897018&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ITVN" tvg-logo="" group-title="Najlepsza telewizja",ITVN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:93:5E:50&stream=897006&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ITVN EXTRA" tvg-logo="" group-title="Najlepsza telewizja",ITVN EXTRA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=897007&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP SERIALE" tvg-logo="" group-title="Najlepsza telewizja",TVP SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882105&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP HISTORIA" tvg-logo="" group-title="Najlepsza telewizja",TVP HISTORIA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882108&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP KULTURA" tvg-logo="" group-title="Najlepsza telewizja",TVP KULTURA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882109&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP ROZRYWKA" tvg-logo="" group-title="Najlepsza telewizja",TVP ROZRYWKA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882106&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SERIALE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882078&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT 1" tvg-logo="" group-title="Najlepsza telewizja",POLSAT 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=897011&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KINO POLSKA" tvg-logo="" group-title="Najlepsza telewizja",KINO POLSKA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882095&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN TURBO" tvg-logo="" group-title="Najlepsza telewizja",TVN TURBO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882100&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN STYLE" tvg-logo="" group-title="Najlepsza telewizja",TVN STYLE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882101&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT PLAY" tvg-logo="" group-title="Najlepsza telewizja",POLSAT PLAY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882099&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT CAFE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT CAFE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882098&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Najlepsza telewizja",HBO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882086&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="Najlepsza telewizja",HBO 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882085&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 3" tvg-logo="" group-title="Najlepsza telewizja",HBO 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882084&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ PREMIUM" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ PREMIUM
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882088&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SERIALE" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882087&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ FILM" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ FILM
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882092&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ FAMILY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882090&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DOMO+" tvg-logo="" group-title="Najlepsza telewizja",DOMO+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882096&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 1" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882094&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 2" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882093&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP ABC" tvg-logo="" group-title="Najlepsza telewizja",TVP ABC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882107&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ 1" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882091&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ NOW" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ NOW
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882089&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KUCHNIA+" tvg-logo="" group-title="Najlepsza telewizja",KUCHNIA+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=882097&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 1" tvg-logo="" group-title="Najlepsza telewizja",TVP 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880380&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 2" tvg-logo="" group-title="Najlepsza telewizja",TVP 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880379&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP" tvg-logo="" group-title="Najlepsza telewizja",TVP
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880364&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP 3" tvg-logo="" group-title="Najlepsza telewizja",TVP 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880240&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP KOBIETA" tvg-logo="" group-title="Najlepsza telewizja",TVP KOBIETA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=1121741&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP ROZRYWKA" tvg-logo="" group-title="Najlepsza telewizja",TVP ROZRYWKA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880237&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP KULTURA" tvg-logo="" group-title="Najlepsza telewizja",TVP KULTURA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880247&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN FABULA" tvg-logo="" group-title="Najlepsza telewizja",TVN FABULA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880376&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN STYLE" tvg-logo="" group-title="Najlepsza telewizja",TVN STYLE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880375&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN TURBO" tvg-logo="" group-title="Najlepsza telewizja",TVN TURBO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880374&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SUPER POLSAT" tvg-logo="" group-title="Najlepsza telewizja",SUPER POLSAT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880246&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT" tvg-logo="" group-title="Najlepsza telewizja",POLSAT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880369&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT RODZINA" tvg-logo="" group-title="Najlepsza telewizja",POLSAT RODZINA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880366&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT CAFE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT CAFE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880264&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT PLAY" tvg-logo="" group-title="Najlepsza telewizja",POLSAT PLAY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880259&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="PULS" tvg-logo="" group-title="Najlepsza telewizja",PULS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880335&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="PULS 2" tvg-logo="" group-title="Najlepsza telewizja",PULS 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880339&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV4" tvg-logo="" group-title="Najlepsza telewizja",TV4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880370&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TV6" tvg-logo="" group-title="Najlepsza telewizja",TV6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880371&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TELE 5" tvg-logo="" group-title="Najlepsza telewizja",TELE 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880230&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="Najlepsza telewizja",TLC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880334&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Najlepsza telewizja",FOOD NETWORK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880341&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV" tvg-logo="" group-title="Najlepsza telewizja",HGTV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880245&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HOME TV" tvg-logo="" group-title="Najlepsza telewizja",HOME TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880214&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DOMO+" tvg-logo="" group-title="Najlepsza telewizja",DOMO+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880284&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KUCHNIA+" tvg-logo="" group-title="Najlepsza telewizja",KUCHNIA+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880275&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ACTIVE FAMILY" tvg-logo="" group-title="Najlepsza telewizja",ACTIVE FAMILY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880234&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="METRO" tvg-logo="" group-title="Najlepsza telewizja",METRO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880212&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVS" tvg-logo="" group-title="Najlepsza telewizja",TVS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880201&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="NOWA TV" tvg-logo="" group-title="Najlepsza telewizja",NOWA TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880267&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ZOOM TV" tvg-logo="" group-title="Najlepsza telewizja",ZOOM TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880190&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="E! ENTERTAINMENT" tvg-logo="" group-title="Najlepsza telewizja",E! ENTERTAINMENT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880282&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="WP" tvg-logo="" group-title="Najlepsza telewizja",WP
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880192&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVR" tvg-logo="" group-title="Najlepsza telewizja",TVR
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880202&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ PREMIUM" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ PREMIUM
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880358&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ 1" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880361&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ FILM" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ FILM
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880351&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ FAMILY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880360&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SERIALE" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880357&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Najlepsza telewizja",HBO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880354&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="Najlepsza telewizja",HBO 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880356&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 3" tvg-logo="" group-title="Najlepsza telewizja",HBO 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880355&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT FILM" tvg-logo="" group-title="Najlepsza telewizja",POLSAT FILM
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880365&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="Najlepsza telewizja",PARAMOUNT CHANNEL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880332&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNER TV" tvg-logo="" group-title="Najlepsza telewizja",WARNER TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880333&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="13 ULICA" tvg-logo="" group-title="Najlepsza telewizja",13 ULICA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880352&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="Najlepsza telewizja",AMC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880293&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ALE KINO+" tvg-logo="" group-title="Najlepsza telewizja",ALE KINO+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880353&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="Najlepsza telewizja",AXN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880350&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN SPIN" tvg-logo="" group-title="Najlepsza telewizja",AXN SPIN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880349&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN WHITE" tvg-logo="" group-title="Najlepsza telewizja",AXN WHITE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880235&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN BLACK" tvg-logo="" group-title="Najlepsza telewizja",AXN BLACK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880236&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="" group-title="Najlepsza telewizja",CINEMAX
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880345&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX 2" tvg-logo="" group-title="Najlepsza telewizja",CINEMAX 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880348&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FILMBOX EXTRA" tvg-logo="" group-title="Najlepsza telewizja",FILMBOX EXTRA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880344&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FILMBOX ARTHOUSE" tvg-logo="" group-title="Najlepsza telewizja",FILMBOX ARTHOUSE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880232&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FILMBOX ACTION" tvg-logo="" group-title="Najlepsza telewizja",FILMBOX ACTION
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880233&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FILMBOX FAMILY" tvg-logo="" group-title="Najlepsza telewizja",FILMBOX FAMILY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880231&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Najlepsza telewizja",COMEDY CENTRAL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880347&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT COMEDY CENTRAL EXTRA" tvg-logo="" group-title="Najlepsza telewizja",POLSAT COMEDY CENTRAL EXTRA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880263&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KINO TV" tvg-logo="" group-title="Najlepsza telewizja",KINO TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880338&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="KINO POLSKA" tvg-logo="" group-title="Najlepsza telewizja",KINO POLSKA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880336&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP SERIALE" tvg-logo="" group-title="Najlepsza telewizja",TVP SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880189&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SERIALE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SERIALE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880367&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FILMAX" tvg-logo="" group-title="Najlepsza telewizja",FILMAX
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=1121744&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX" tvg-logo="" group-title="Najlepsza telewizja",FOX
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880337&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX COMEDY" tvg-logo="" group-title="Najlepsza telewizja",FOX COMEDY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880340&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SCIFI UNIVERSAL" tvg-logo="" group-title="Najlepsza telewizja",SCIFI UNIVERSAL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880311&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CBS EUROPA" tvg-logo="" group-title="Najlepsza telewizja",CBS EUROPA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880291&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="EPIC DRAMA" tvg-logo="" group-title="Najlepsza telewizja",EPIC DRAMA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880281&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="STOPKLATKA TV" tvg-logo="" group-title="Najlepsza telewizja",STOPKLATKA TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880229&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV" tvg-logo="" group-title="Najlepsza telewizja",SUNDANCE TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880252&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ROMANCE TV" tvg-logo="" group-title="Najlepsza telewizja",ROMANCE TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880254&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVELA TV" tvg-logo="" group-title="Najlepsza telewizja",NOVELA TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880209&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TRAVEL CHANNEL" tvg-logo="" group-title="Najlepsza telewizja",TRAVEL CHANNEL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880305&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Najlepsza telewizja",ANIMAL PLANET
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880297&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ADVENTURE" tvg-logo="" group-title="Najlepsza telewizja",ADVENTURE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880294&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC BRIT" tvg-logo="" group-title="Najlepsza telewizja",BBC BRIT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880310&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC EARTH" tvg-logo="" group-title="Najlepsza telewizja",BBC EARTH
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880296&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC FIRST" tvg-logo="" group-title="Najlepsza telewizja",BBC FIRST
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880309&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="BBC LIFESTYLE" tvg-logo="" group-title="Najlepsza telewizja",BBC LIFESTYLE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880295&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CBS REALITY" tvg-logo="" group-title="Najlepsza telewizja",CBS REALITY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880290&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ DOKUMENT" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ DOKUMENT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880302&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" tvg-logo="" group-title="Najlepsza telewizja",DISCOVERY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880288&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Najlepsza telewizja",DISCOVERY SCIENCE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880286&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY LIFE" tvg-logo="" group-title="Najlepsza telewizja",DISCOVERY LIFE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880287&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY HISTORIA" tvg-logo="" group-title="Najlepsza telewizja",DISCOVERY HISTORIA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880228&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Najlepsza telewizja",NATIONAL GEOGRAPHIC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880298&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Najlepsza telewizja",NAT GEO WILD
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880299&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO PEOPLE" tvg-logo="" group-title="Najlepsza telewizja",NAT GEO PEOPLE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880300&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ID" tvg-logo="" group-title="Najlepsza telewizja",ID
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880276&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CRIME AND INVESTIGATION" tvg-logo="" group-title="Najlepsza telewizja",CRIME AND INVESTIGATION
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880289&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="DTX" tvg-logo="" group-title="Najlepsza telewizja",DTX
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880283&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="H2" tvg-logo="" group-title="Najlepsza telewizja",H2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880278&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="PLANETE+" tvg-logo="" group-title="Najlepsza telewizja",PLANETE+
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880265&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT DOKU" tvg-logo="" group-title="Najlepsza telewizja",POLSAT DOKU
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880262&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT VIASAT HISTORY" tvg-logo="" group-title="Najlepsza telewizja",POLSAT VIASAT HISTORY
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880257&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT VIASAT EXPLORE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT VIASAT EXPLORE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880258&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT VIASAT NATURE" tvg-logo="" group-title="Najlepsza telewizja",POLSAT VIASAT NATURE
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880256&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FOKUS TV" tvg-logo="" group-title="Najlepsza telewizja",FOKUS TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880342&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="WATER PLANET" tvg-logo="" group-title="Najlepsza telewizja",WATER PLANET
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880193&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="STUDIOMED TV" tvg-logo="" group-title="Najlepsza telewizja",STUDIOMED TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880253&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP DOKUMENT" tvg-logo="" group-title="Najlepsza telewizja",TVP DOKUMENT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880248&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP HISTORIA" tvg-logo="" group-title="Najlepsza telewizja",TVP HISTORIA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880238&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP HISTORIA 2" tvg-logo="" group-title="Najlepsza telewizja",TVP HISTORIA 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=1121743&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP INFO" tvg-logo="" group-title="Najlepsza telewizja",TVP INFO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880363&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT NEWS 2" tvg-logo="" group-title="Najlepsza telewizja",POLSAT NEWS 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880227&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP3 POZNAN" tvg-logo="" group-title="Najlepsza telewizja",TVP3 POZNAN
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=936838&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="Najlepsza telewizja",ELEVEN SPORTS 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880317&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="Najlepsza telewizja",ELEVEN SPORTS 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880316&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="Najlepsza telewizja",ELEVEN SPORTS 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880315&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="Najlepsza telewizja",ELEVEN SPORTS 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880314&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Najlepsza telewizja",EUROSPORT 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880313&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Najlepsza telewizja",EUROSPORT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880312&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ NOW" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ NOW
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880359&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880321&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SPORT 2" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SPORT 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880320&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SPORT 3" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SPORT 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880319&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SPORT 4" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SPORT 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880318&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL+ SPORT 5" tvg-logo="" group-title="Najlepsza telewizja",CANAL+ SPORT 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880266&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT NEWS" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT NEWS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880328&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880330&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT EXTRA" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT EXTRA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880331&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 1" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880327&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 2" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880326&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 3" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880325&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 4" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880324&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 5" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880323&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT PREMIUM 6" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT PREMIUM 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880322&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="POLSAT SPORT FIGHT" tvg-logo="" group-title="Najlepsza telewizja",POLSAT SPORT FIGHT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880329&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TVP SPORT" tvg-logo="" group-title="Najlepsza telewizja",TVP SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880362&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTKLUB" tvg-logo="" group-title="Najlepsza telewizja",SPORTKLUB
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880307&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FIGHTKLUB" tvg-logo="" group-title="Najlepsza telewizja",FIGHTKLUB
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880280&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="FIGHTBOX" tvg-logo="" group-title="Najlepsza telewizja",FIGHTBOX
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880306&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="EXTREME SPORTS" tvg-logo="" group-title="Najlepsza telewizja",EXTREME SPORTS
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880308&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLF CHANNEL" tvg-logo="" group-title="Najlepsza telewizja",GOLF CHANNEL
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880279&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="MOTOWIZJA" tvg-logo="" group-title="Najlepsza telewizja",MOTOWIZJA
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880273&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GINX ESPORTS TV" tvg-logo="" group-title="Najlepsza telewizja",GINX ESPORTS TV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=1121748&extension=ts
+#EXTINF:-1 tvg-id="ext" tvg-name="TTV" tvg-logo="" group-title="Najlepsza telewizja",TTV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:F1:58:70&stream=880249&extension=ts
