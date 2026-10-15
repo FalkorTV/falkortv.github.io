@@ -15,6 +15,27 @@
     <style>
       .ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} 
       html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}
+      
+      /* Sekcja nagłówkowa z poprawionym nakładaniem się tekstu */
+      .hero-offer-section {
+        padding: 130px 0 90px 0;
+        position: relative;
+        z-index: 2;
+      }
+      .hero-offer-title {
+        font-size: 2.8rem;
+        font-weight: 700;
+        color: #ffffff;
+        margin-bottom: 15px;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+      }
+      .hero-offer-subtitle {
+        font-size: 1.25rem;
+        color: rgba(255, 255, 255, 0.9);
+        font-style: italic;
+      }
+
+      /* Kafelki ofert 3x3 */
       .laptop-card {
         padding: 25px;
         border-radius: 12px;
@@ -94,15 +115,18 @@
                 <div class="rd-navbar-panel">
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <div class="rd-navbar-brand">
-                    <h4 class="text-white mb-0">Oferty Laptopów FalkorTV</h4>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
                   <div class="rd-navbar-nav-wrap">
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Strona Główna</a></li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="#oferty">Oferty</a></li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="#kontakt">Kontakt</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="index.html">Strona Główna</a></li>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="Oferta.html">Oferta</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="w10de.html">W10 DE</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="w1022h2.html">W10 22H2 DEFINITIVE</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="w11.html">W11 22H2</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="forum.html">Forum</a></li>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="eksperymenty.html">Eksperymenty</a></li>
                     </ul>
                   </div>
                 </div>
@@ -112,21 +136,19 @@
         </div>
       </header>
 
-      <!-- Sekcja nagłówkowa -->
-      <section class="section main-section parallax-scene-js" style="background:url('images/bg-2-1700x803.jpg') no-repeat center center; background-size:cover;">
+      <!-- Sekcja nagłówkowa bez nakładających się grafik -->
+      <section class="section hero-offer-section" style="background:url('images/bg-2-1700x803.jpg') no-repeat center center; background-size:cover;">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-xl-8 col-12">
-              <div class="main-decorated-box text-center">
-                <h1 class="text-white font-weight-bold">Wyprzedaż Laptopów FalkorTV</h1>
-                <div class="decorated-subtitle text-italic text-white">Sprawdzone, gotowe do pracy komputery w super cenach!</div>
-              </div>
+            <div class="col-xl-10 col-12 text-center">
+              <h1 class="hero-offer-title wow slideInRight" data-wow-delay=".3s">Wyprzedaż Laptopów FalkorTV</h1>
+              <div class="hero-offer-subtitle wow slideInLeft" data-wow-delay=".4s">Sprawdzone, gotowe do pracy komputery w super cenach!</div>
             </div>
           </div>
         </div>
       </section>
 
-      <!-- Sekcja z ofertami w układzie 3x3 -->
+      <!-- Sekcja z ofertami 3x3 -->
       <section class="section section-md bg-xs-overlay" id="oferty" style="background:url('images/bg-image-3-1700x883.jpg') no-repeat; background-size:cover;">
         <div class="container">
           <div class="row row-50 justify-content-center">
@@ -277,8 +299,8 @@
         </div>
       </section>
 
-      <!-- Stopka -->
-      <footer class="section footer-classic section-sm" id="kontakt">
+      <!-- Footer -->
+      <footer class="section footer-classic section-sm">
         <center><iframe src="https://discord.com/widget?id=971387244827000884&theme=dark" width="336" height="280" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></center>
         <div class="container wow fadeInUp" data-wow-delay=".4s">
           <div class="footer-classic-aside">
@@ -294,5 +316,6 @@
     <div class="snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <!--coded by Drel-->
   </body>
 </html>
